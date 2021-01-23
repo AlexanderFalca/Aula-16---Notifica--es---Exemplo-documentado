@@ -23,9 +23,6 @@ Notifications.setNotificationHandler({
   }),
 });
 
-/**
- * Componente principal App
- */
 export default function App() {
   /**
    * Estado da aplicação (state)
